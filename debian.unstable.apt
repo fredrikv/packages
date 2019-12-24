@@ -24,6 +24,7 @@ php
 php-codesniffer
 phpmd
 pkg-php-tools
+pkg-config
 pmount
 powerline
 python-pip
